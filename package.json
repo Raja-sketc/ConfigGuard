@@ -1,0 +1,19 @@
+{
+  "name": "configguard",
+  "version": "1.0.0",
+  "description": "Zero-dependency schema validation and environment configuration guard for modern web and backend apps.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "config",
+    "env",
+    "validation",
+    "schema",
+    "dotenv",
+    "zero-dependency"
+  ],
+  "license": "MIT"
+}
